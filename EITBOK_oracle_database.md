@@ -63,14 +63,3 @@
 | 4 | 16 | Which are common ways, per the EITBOK, to assign access rights to users? (Choose three.) | User-based; Job-based; Role-based | 0.97 | Operations and Support, Access management / User access rights |
 | 4 | 17 | Which is best described as containing expectations between a service provider and users consuming the services? | Service Level Agreement (SLA) | 0.99 | Operations and Support, Service-level expectations / SLA references |
 | 4 | 18 | Which common source of change requests is a demand that occurs so the organization can comply with a law, regulation, or contractual obligation? | External driver | 0.98 | Maintenance and Control, 1.2 Control |
-
-
-## Change Log
-
-| Date | Change |
-|---|---|
-| 2026-05-03 | Created Exam 1 answer key and confirmed all entries correct. |
-| 2026-05-03 | Added Exam 2 and confirmed all entries correct. Matching questions formatted as `topic = definition`. |
-| 2026-05-03 | Added Exam 3 and confirmed all entries correct. Matching questions formatted as `topic = definition`. |
-| 2026-05-03 | Added Exam 4 as a working answer set. Clarified Q13 as lowest-to-highest support level order: `Self service → Service representatives → Technical support → On-site technician`. |
-| 2026-05-03 | Corrected Exam 4 Q16 to `User-based; Job-based; Role-based` based on quiz feedback. Removed `Permissions-based`. |
